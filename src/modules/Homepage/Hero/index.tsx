@@ -15,14 +15,14 @@ const Degular = localFont({
     },
   ] ,
 })
-const FreightBigPro = localFont({
-  src:[
-    {
-      path: "../../../../public/fonts/FreightBigProBlack-italic.ttf",
-      weight :"",
-    },
-  ] ,
-})
+// const FreightBigPro = localFont({
+//   src:[
+//     {
+//       path: "../../../../public/fonts/FreightBigProBlack-italic.ttf",
+//       weight :"",
+//     },
+//   ] ,
+// })
 
 const HeroSection = (): JSX.Element => {
 
