@@ -18,7 +18,7 @@ const Header = (): React.ReactElement => {
       <a className={`{Degular.className} font-semibold`}>Contact</a>
      </nav>
      <div className='h-px bg-slate-300 col-span-22 col-start-2 '></div>
-
+     
     </div>
   )
 }
