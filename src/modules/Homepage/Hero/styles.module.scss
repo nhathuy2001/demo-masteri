@@ -1,15 +1,34 @@
-// @font-face {
-//     font-family: 'FrieghtBigPro';
-//     src: url(C:\Users\Admin\Downloads\freightbigpro);
-//   }
+@font-face {
+    font-family: 'FrieghtBigPro';
+    src: url(C:\Users\Admin\Downloads\freightbigpro);
+  }
 
 
 .text{
-    // font-family: FrieghtBigPro;
+    position: relative;
+    font-family: FrieghtBigPro;
     color: white;
+    top: 6.875rem;
+}
+a.text2{
+    position: relative;
+    top: 9.313rem;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21.23px;
+}
+p.text3{
+    position: relative;
+    top: 18.188rem;
+    font-size: 18px;
+    font-weight: 500;
 }
 .num{
     color:white;
     top:673px;
+    width: 46px;
+    height: 53px;
+    font-weight: 500;
+    font-size: 40px;
 }
 
